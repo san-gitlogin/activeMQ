@@ -1,11 +1,11 @@
 # Active MQ - Local machine JMS Point to Point and Publisher Subscriber model | Windows 11
 Demonstration on the working of ActiveMQ JMS (Java Message Service) methods using Java JFrame. The application is designed to understand the working of point to point and publisher subscriber model of JMS using active mq server.
 
-#Java Application
+# Java Application
 
 ![Screenshot 2022-03-17 223530](https://user-images.githubusercontent.com/9679358/158855140-051aba22-d42d-4fc6-bfd3-fd61f361d4df.png)
 
-#Steps to execute:
+# Steps to execute:
 
 Step 1: Activate ActiveMQ - Download ActiveMQ from https://activemq.apache.org/components/classic/download/ and under bin folder run "/win32/activemq.bat" or "/win64/activemq.bat" based on your operating system. Once the command prompt returns the following message, you can proceed on working with JMS models.
 
@@ -25,7 +25,7 @@ Step 5: Open san_activemq\src\activeMQJFrame\MainFrame.java using NetBeans IDE a
 
 Note: ActiveMQ must be running at the background to successfully send or receive messages.
 
-#Working:
+# Working:
 
 Point to Point model : 
   
